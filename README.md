@@ -1,4 +1,3 @@
 # Colobaration
 
-Test text, git its goodgit 
-
+I adding last text in README.md
